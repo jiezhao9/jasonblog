@@ -13,6 +13,7 @@ import ShortLineSVG from '@/svgs/short-line.svg'
 import { useBlogIndex, type BlogIndexItem } from '@/hooks/use-blog-index'
 import { useReadArticles } from '@/hooks/use-read-articles'
 import JuejinSVG from '@/svgs/juejin.svg'
+import WechatSVG from '@/svgs/wechat.svg'
 import { useAuthStore } from '@/hooks/use-auth'
 import { readFileAsText } from '@/lib/file-utils'
 import { cn } from '@/lib/utils'
@@ -365,11 +366,11 @@ export default function BlogPage() {
 							animate={{ opacity: 1, scale: 1 }}
 							whileHover={{ scale: 1.05 }}
 							whileTap={{ scale: 0.95 }}
-							href='https://juejin.cn/user/2427311675422382/posts'
+							href='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDE0NzQ2MA==&action=getalbum&album_id=2145766062058012678&scene=126#wechat_redirect'
 							target='_blank'
 							className='card text-secondary static inline-flex items-center gap-2 rounded-xl px-4 py-2 text-xs'>
-							<JuejinSVG className='h-4 w-4' />
-							更多
+							<WechatSVG className='h-4 w-4' />
+							有关数据产品
 						</motion.a>
 					</div>
 				)}

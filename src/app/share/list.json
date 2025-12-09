@@ -8,5 +8,35 @@
 			"图片"
 		],
 		"stars": 4
+	},
+	{
+		"name": "观远BI",
+		"url": "https://docs.guandata.com/",
+		"logo": "https://guandata-official-website.oss-cn-hangzhou.aliyuncs.com/assets/images/header/logo1.png",
+		"description": "国产BI软件",
+		"tags": [
+			"BI","数据产品"
+		],
+		"stars": 4
+	},
+	{
+		"name": "QuickBI",
+		"url": "https://help.aliyun.com/zh/quick-bi/",
+		"logo": "https://img.alicdn.com/imgextra/i4/O1CN01uNZKMZ1YAkaVvf2G4_!!6000000003019-2-tps-500-310.png",
+		"description": "国产BI软件,阿里系BI产品",
+		"tags": [
+			"BI","数据产品"
+		],
+		"stars": 4
+	},
+	{
+		"name": "智能数据洞察DataWind",
+		"url": "https://www.volcengine.com/docs/4726/47131?lang=zh",
+		"logo": "https://lf3-static.bytednsdoc.com/obj/eden-cn/shayvw_lmjsvc/ljhwZthlaukjlkulzlp/logo-theme-light.svg",
+		"description": "国产BI软件,字节跳动系产品",
+		"tags": [
+			"BI","数据产品"
+		],
+		"stars": 4
 	}
 ]

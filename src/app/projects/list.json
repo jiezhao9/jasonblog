@@ -11,5 +11,19 @@
 			"企业软件",
 			"数据产品"
 		]
+	},
+	{
+		"name": "实用数据分析技巧",
+		"year": 2023,
+		"description": "本专栏侧重数据分析的实用性与趣味性，技巧与方法能够在日常工作中快速落地，提高数据分析的效率，提升分析的专业性。适用于求职、分析能力提升、数据产品设计等场景。",
+		"image": "https://static.xiaobot.net/resource/xiaobot-web/img/icons/favicon-32x32.png",
+		"url": "https://xiaobot.net/p/bi",
+		"tags": [
+			"数据分析",
+			"商业分析",
+			"BI",
+			"数据可视化",
+			"数据产品"
+		]
 	}
 ]

@@ -29,7 +29,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // GitHub 仓库配置：
   const ghOwner = process.env.NEXT_PUBLIC_GITHUB_OWNER      // GitHub 用户名
-  const ghRepo = process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-public'   // 仓库名
+  const ghRepo = process.env.NEXT_PUBLIC_GITHUB_REPO || 'jasonblog'   // 仓库名
   const ghBranch = process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main'           // 分支名
 
   // 构造 Raw 文件地址
