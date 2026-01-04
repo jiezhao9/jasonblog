@@ -1,13 +1,16 @@
 [
   {
-    "slug": "palantir",
-    "title": "5000字拆解 Palantir 产品与本体论",
+    "slug": "palantir-use-cases",
+    "title": "Palantir的5大类50个案例",
     "tags": [
-      "Palantir","Foundry","数据产品","数据中台","本体论"
+      "Palantir",
+      "数据产品",
+      "AI",
+      "LLM"
     ],
-    "date": "2025-09-30",
-    "summary": "不折不扣的数据分析系统，但是又跟业务紧密联系",
-    "cover": "http://pic.yupoo.com/jason007007/9e0f3f5a/1a722afd.png"
+    "date": "2026-01-04",
+    "summary": "Palantir 在解决客户的哪些问题？",
+    "cover": "/blogs/palantir-use-cases/151532d94d090a67.jpg"
   },
   {
     "slug": "about-me",
@@ -29,5 +32,19 @@
     "date": "2025-12-07",
     "summary": "忙碌的一周",
     "cover": "/blogs/week-202549/cb575cec9cef09dd.png"
+  },
+  {
+    "slug": "palantir",
+    "title": "5000字拆解 Palantir 产品与本体论",
+    "tags": [
+      "Palantir",
+      "Foundry",
+      "数据产品",
+      "数据中台",
+      "本体论"
+    ],
+    "date": "2025-09-30",
+    "summary": "不折不扣的数据分析系统，但是又跟业务紧密联系",
+    "cover": "http://pic.yupoo.com/jason007007/9e0f3f5a/1a722afd.png"
   }
 ]
