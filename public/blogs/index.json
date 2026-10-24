@@ -1,5 +1,13 @@
 [
   {
+    "slug": "wildora",
+    "title": "小旷野App发布",
+    "tags": [],
+    "date": "2026-10-24",
+    "summary": "欢迎来到小旷野，\n在这里记录你的梦想与人生清单。",
+    "cover": "/blogs/wildora/866c88085db4ff3d.png"
+  },
+  {
     "slug": "palantir-use-cases",
     "title": "Palantir的5大类50个案例",
     "tags": [
